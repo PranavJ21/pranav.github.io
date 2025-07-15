@@ -1,8 +1,18 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm **Pranav Joshi** — a researcher and engineer passionate about the domains of **machine learning**, **quantum computing**, and **climate science**.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’ve worked on projects involving:
+- Quantum Machine Learning for Cancer Detection
+- Indian monsoon prediction using Arctic sea ice data
+- Post Quantum Cryptography
+- Machine Learning
+
+I'm also a lifelong learner of piano and guitar, and balance my work with music, gym, and cycling.
+
+This site is a collection of my academic research, personal projects, and musical journey.
