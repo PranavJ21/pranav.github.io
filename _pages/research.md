@@ -6,7 +6,7 @@ layout: single
 
 ### 🧬 Quantum Machine Learning for Cancer Detection
 
-[Paper](https://www.researchgate.net/publication/226413020_Introduction_to_post-quantum_cryptography)
+[Paper](https://ieeexplore.ieee.org/document/10895634/)
 
 Developed and compared classical SVMs and quantum-enhanced models (QSVC with FidelityQuantumKernel) for classifying breast cancer using the WDBC dataset.
 
