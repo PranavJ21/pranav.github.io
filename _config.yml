@@ -7,7 +7,7 @@ description: >-
 baseurl: "" # do not change this
 url: "https://pranav.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 # Enable these plugins
 plugins:
@@ -18,10 +18,10 @@ plugins:
 # Social links
 author:
   name: "Pranav Joshi"
-  avatar: "/assets/images/avatar.png" # optional, replace with your photo
-  bio: "Quantum ML | Climate Informatics | Pianist"
-  location: "India"
-  email: "your@email.com"
+  # optional, replace with your photo
+  bio: "Quantum Computing | Mahcine Learning | Amatuer Pianist"
+  location: "Pune, MH"
+  email: "pranavjoshi2107@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
