@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Pranav Joshi"
-subtitle: "Researcher · ML & Quantum · Climate Informatics · Pianist"
+subtitle: "Researcher · ML & Quantum · Amatuer Pianist"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
