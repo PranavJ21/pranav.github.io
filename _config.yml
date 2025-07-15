@@ -8,6 +8,8 @@ baseurl: "" # do not change this
 url: "https://pranav.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
+
 
 # Enable these plugins
 plugins:
