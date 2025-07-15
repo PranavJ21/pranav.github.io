@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: "Pranav Joshi"
 subtitle: "Researcher · ML & Quantum · Amatuer Pianist"
 header:
   overlay_color: "#000"
