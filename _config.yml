@@ -1,15 +1,14 @@
 title: "Pranav Joshi"
-email: "your@email.com"
+email: "pranavjoshi2107@gmail.com"
 description: >-
   Researcher in Quantum Computing and Machine Learning.
   Interested in the study of intelligent systems,
   and the intersection of machine learning and physics. Also a pianist.
 baseurl: "" # do not change this
-url: "https://pranav.github.io"
+url: "https://pranaj21.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
-
 
 # Enable these plugins
 plugins:
@@ -21,7 +20,7 @@ plugins:
 author:
   name: "Pranav Joshi"
   # optional, replace with your photo
-  bio: "Quantum Computing | Mahcine Learning | Amatuer Pianist"
+  bio: "Quantum Computing | Machine Learning | Amateur Pianist"
   location: "Pune, MH"
   email: "pranavjoshi2107@gmail.com"
   links:
@@ -34,9 +33,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=JQhocz4AAAAJ"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:pranavjoshi2107@gmail.com"
 
 # Navigation bar
 defaults:
